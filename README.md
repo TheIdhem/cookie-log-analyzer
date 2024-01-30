@@ -36,7 +36,7 @@ The program will print the most active cookie(s) for the specified date to the c
 ### Run tests
 
 ```bash
-python3 -m unittest
+python3 -m unittest discover tests
 ```
 
 ### Assumptions
